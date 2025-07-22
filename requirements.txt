@@ -1,0 +1,19 @@
+# Data handling
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Preprocessing and modeling
+scikit-learn
+imblearn
+statsmodels
+
+# Machine Learning models
+xgboost
+lightgbm
+
+# Jupyter support
+ipython
