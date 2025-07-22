@@ -47,7 +47,7 @@ pip install -r requirements.txt
 3. Run the Jupyter notebook  
 ```
 
-jupyter notebook notebook/wine\_quality\_analysis.ipynb
+jupyter notebook notebook\red-wine-quality-classification.ipynb
 
 ```
 
